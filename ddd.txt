@@ -1,0 +1,8 @@
+
+The Matplotlib package is the most well-known library for data visualization, and it’s 
+excellent for making graphs and plots. 
+The graphs are also highly customizable. 
+Another high-level visualization library, Seaborn, is based on matplotlib. 
+Seaborn makes it easy to generate plots like heat maps, time series, and violin plots. 
+For machine learning, the Scikit-learn library contains tools for statistical modeling, including regression, classification, clustering and others. 
+It is built on NumPy, SciPy, and matplotlib, and it’s relatively simple to get started. 
